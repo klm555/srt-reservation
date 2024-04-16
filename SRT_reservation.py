@@ -220,8 +220,8 @@ def main() -> None:
 # =============================================================================
 # USER INPUT
 # =============================================================================
-username = '2080926322'
-password =  '1q2w#E$R'
+username = 'XXX'
+password =  'XXX'
 
 input_dep_stn = '수서'
 input_arr_stn = '부산'
@@ -240,10 +240,10 @@ want_standing_seat = False # 입석도 괜찮나요? True, False
 want_queue = False # 예약 대기 원하나요? True, False
 
 # Twilio Information
-sid = 'ACfa02d67743251c51696b1d96cb327c53'
-auth_token = '4b25e6ae102b98b77fb0a76508674eae'
-from_num = '+19285506192'
-to_num = '+8201091190268'
+sid = 'XXX'
+auth_token = 'XXX'
+from_num = 'XXX'
+to_num = 'XXX'
 
 # =============================================================================
 # EXECUTION
