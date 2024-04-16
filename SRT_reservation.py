@@ -240,10 +240,6 @@ want_standing_seat = False # 입석도 괜찮나요? True, False
 want_queue = False # 예약 대기 원하나요? True, False
 
 # Twilio Information
-sid = 'XXX'
-auth_token = 'XXX'
-from_num = 'XXX'
-to_num = 'XXX'
 
 # =============================================================================
 # EXECUTION
